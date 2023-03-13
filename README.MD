@@ -2,3 +2,4 @@
   - feature-A
     merge
   - fix-B
+  - feature-C
