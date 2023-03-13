@@ -1,3 +1,4 @@
 # git 教程
-- feature-A
-merge
+  - feature-A
+    merge
+  - fix-B
